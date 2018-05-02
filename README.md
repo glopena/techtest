@@ -1,2 +1,5 @@
 # techtest
-temporary repo for tech interview
+Temporary repo for tech interviews
+
+This will be deleted at the end of the day.
+
